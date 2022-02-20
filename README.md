@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Languages Card](https://gitb-readme-stats.vercel.app/api/top-langs/?username=karadeli98)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karadeli98&theme=dark&show_icons=true)
