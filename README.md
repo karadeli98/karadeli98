@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Furkan
+
+I graduated from Hacettepe University Computer Engineering at February 2022.I like solving algorithms. I am looking forward for job opportunitites.
 
 <!--
 **karadeli98/karadeli98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
