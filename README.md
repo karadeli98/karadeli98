@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=karadeli98&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karadeli98)](https://github.com/anuraghazra/github-readme-stats)
